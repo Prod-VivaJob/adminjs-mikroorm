@@ -35,7 +35,7 @@
   },
   "peerDependencies": {
     "@mikro-orm/core": "^5.1.1",
-    "adminjs": "^5.2.2"
+    "adminjs": "^6.8.7"
   },
   "dependencies": {},
   "devDependencies": {
